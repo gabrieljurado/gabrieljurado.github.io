@@ -1,2 +1,3 @@
 name: Gabriel Jurado, Physics
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
